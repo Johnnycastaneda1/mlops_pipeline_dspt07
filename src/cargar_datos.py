@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import numpy as np
 def cargarDatos():
     # Obtiene la ruta del directorio donde se encuentra este script (src/)
     script_dir = os.path.dirname(__file__)
